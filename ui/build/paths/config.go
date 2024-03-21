@@ -108,6 +108,7 @@ var Configuration = map[string]PathConfig{
 	"stubby":         Allowed,
 	"tr":             Allowed,
 	"unzip":          Allowed,
+	"xz":             Allowed,
 	"zip":            Allowed,
 
 	// Host toolchain is removed. In-tree toolchain should be used instead.
